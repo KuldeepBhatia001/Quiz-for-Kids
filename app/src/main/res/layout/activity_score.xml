@@ -1,0 +1,26 @@
+<!-- activity_score.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2196F3"
+    android:backgroundTint="#97A3E6"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/scoreDisplay"
+        android:layout_width="381dp"
+        android:layout_height="259dp"
+        android:layout_gravity="center_horizontal"
+
+        android:text="Your score: 0"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="154dp"
+        android:layout_height="72dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Back to Dashboard" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+Animals,baboon,baboon
+Animals,bear,bear
+Animals,butterfly,butterfly
+Animals,dingo,dingo
+Animals,eagle,eagle
+Animals,elephant,elephant
+Animals,fox,fox
+Animals,giraffe,giraffe
+Animals,gorilla,gorilla
+Animals,hippo,hippo
+Animals,penguin,penguin
+Animals,whale,whale
